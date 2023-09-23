@@ -5,9 +5,11 @@
 }
 
 body {
-  min-width: 1100px;
   margin: 0;
+  padding: 0;
+  min-width: 1100px;
   font-family: Raleway, sans-serif;
+  block-size: border-box;
 }
 
 h1,
@@ -23,6 +25,7 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
+  display: block;
 }
 
 a {
@@ -32,3 +35,4 @@ a {
 img {
   width: 100%;
 }
+  
