@@ -215,7 +215,7 @@
     flex-wrap: wrap;
     gap: 25px;
     flex-grow: 1;
-    box-sizing: border-box; 
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
     width: 100%;
@@ -369,7 +369,7 @@
 .footer__menu {
     color: #000;
     font-size: 18px;
-    font-weight: 400;   
+    font-weight: 400;
     line-height: normal;
 }
 
